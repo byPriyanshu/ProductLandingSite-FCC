@@ -1,1 +1,1 @@
-The Site is available in https://priyansus.github.io/ProductLandingSite-FCC/
+The Site is available in https://priyanshukatuwal.github.io/ProductLandingSite-FCC/
